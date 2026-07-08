@@ -348,3 +348,236 @@
 348|- 📢 ข่าวสารสำคัญสามารถติดตามได้ผ่าน Discord Server
 349|- 🎮 DojoSMP ยังคงพัฒนาอย่างต่อเนื่องเพื่อผู้เล่นทุกคน
 350|- 💜 ขอบคุณทุกคนที่เป็นส่วนหนึ่งของ DojoSMP
+351|- 🟪 โพรเทค 259x259 ลดราคาเหลือ 9,290 Gems จากเดิม 12,990 Gems
+352|- ⚔️ Dragon Sword ได้รับบัฟ Sharpness V แล้ว ซื้อได้ผ่าน /tools
+353|- 🔥 ตาราง KOTH ใหม่ วันเสาร์ Fire วันจันทร์ Lower วันพุธ Water วันศุกร์ Upper เวลา 19:00 น.
+354|- 🏆 ผู้ชนะ KOTH รับ 150 Gems และ Epic Key x3 เข้าร่วมด้วย /warp koth
+355|- ✨ Fairy Set ชุดใหม่ถูกเพิ่มเข้ามาแล้ว
+356|- 📈 ราคาขายพืชผลเพิ่มขึ้น Melon Pumpkin Cocoa Beans Nether Wart และอื่น ๆ
+357|- 😆 ราคาขาย Moss Carpet และ Moss Block ถูกปรับลดลง
+358|- 🧱 Auto Block Refill เติมบล็อกในมืออัตโนมัติเมื่อหมด สำหรับผู้ใช้ Dojo+
+359|- 🍖 Auto Food Refill เติมอาหารอัตโนมัติเมื่อกินชิ้นสุดท้าย สำหรับผู้ใช้ Dojo+
+360|- 🪣 Auto Bucket Refill เปลี่ยนถังน้ำหรือลาวาให้อัตโนมัติ สำหรับผู้ใช้ Dojo+
+361|- ⚙️ เปิดปิด Auto Refill ได้ที่ /settings รูป Minecart Hopper
+362|- 📜 กฎเซิร์ฟเวอร์อัปเดตใหม่ อ่านได้ที่ /rules
+363|- 📈 Team Upgrade Level 1→2 ใช้ $50M Level 2→3 ใช้ $500M
+364|- 💎 Team Upgrade Level 3→4 ใช้ $1B + 2,000 Gems Level 4→5 ใช้ $5B + 3,000 Gems
+365|- 🏠 บ้านทีมปลดล็อคตามเลเวล Level 1 ได้ 1 จุด สูงสุด Level 5 ได้ 5 จุด
+366|- 📝 ตั้งชื่อบ้านทีมแต่ละจุดได้เอง เช่น home-01 base farm
+367|- 🔥 Dark Wither Set ชุดใหม่ถูกเพิ่มเข้ามาแล้ว
+368|- 🎁 Spawner Crates เพิ่ม Guardian Husk Zombie Villager และ Fox
+369|- 🪅 Pinata Party เกิดอัตโนมัติที่ /spawn ทุกครั้งที่เติม Gems ครบ 3,000
+370|- ⚠️ Dojo+ EXP Protection ปรับใหม่ เก็บ EXP ได้ 25% เมื่อตาย แทนการไม่สูญเสียเลย
+371|- 🔮 ระบบเอ็นชานต์พิเศษเปิดแล้ว ดูได้ที่ /enchanter หรือ /warp enchanter
+372|- 🛠️ Dojo Lever เปิดขายใน /shop หมวด Special ใช้ปิดฟาร์มอัตโนมัติหลังรีสตาร์ท
+373|- 🏠 /pssettings จัดการโพรเทคจากเมนูเดียว เพิ่มสมาชิก ปรับสิทธิ์ และตั้งค่าแฟก
+374|- ⚡ /lobby และ /hub ไม่ต้องนับถอยหลังแล้ว เข้าได้ทันที
+375|- 🚀 พิมพ์ /survival /skyisland /boxpvp หรือ /practice เข้าเซิร์ฟที่ต้องการได้เลย
+376|- 🌍 WorldBorder ขยาย Overworld และ The End จาก 70k เป็น 80k Blocks
+377|- 🎨 Colored Shop เปิดใน /shop กดขนแกะสีม่วง ร้านค้าสำหรับบล็อกสี
+378|- 🚫 Protection flag entry คนที่ไม่ได้รับอนุญาตในโพรเทคจะถูกส่งกลับ spawn ทันที
+379|- 🤖 Practice Bot Room ฝึกซ้อมกับบอท ใช้ /botpractice หรือ /bottest
+380|- ✨ Magic Paw Set ชุดใหม่ถูกเพิ่มเข้ามาแล้ว
+381|- 🛠️ /disenchant ถอด Enchant ออกจากไอเทมได้เลือกเฉพาะที่ต้องการ
+382|- 🎰 การันตีกล่อง Magic Paw สุ่มครบ 38 ครั้ง รับ Helmet 3D Wings และ Key
+383|- 🫡 /trap ออกจากโพรเทคคนอื่นเมื่อโดน Trap ส่งกลับ spawn คูลดาวน์ 60 วินาที
+384|- ⚡ Dojo EMP Field กางสนามป้องกัน Orbital ระยะ 18 บล็อก ใช้งาน 30 วินาที
+385|- ⛏️ Drill Shovel กลับมาแล้ว ซื้อได้ผ่าน /tools
+386|- 🏝️ SkyIsland เพิ่ม Phase เป็น 30 Phase และระบบ Rebirth ผ่าน /rebirth
+387|- 🌾 SkyIsland Generator Melon และ Hay เปิดขายใน /gens แล้ว
+388|- 🌋 SkyIsland เปิดโลก Nether และ End ผ่าน /rtp แล้ว
+389|- ⚔️ SkyIsland เปิดโลก Boss ผ่าน /boss หรือ /warp boss
+390|- 📖 SkyIsland ร้านขายสมุด Enchant เปิดที่ /enchantshop หรือ /gemshops
+391|- 💸 ซื้อโพรเทค 259x259 ได้ผ่าน /protection ในเซิร์ฟเวอร์
+392|- 🟪 โพรเทคขนาดใหญ่ราคาถูกลง ช่วยให้สร้างเมืองได้ง่ายขึ้น
+393|- ⚔️ Dragon Sword แรงขึ้นด้วย Sharpness V เหมาะสาย PvP
+394|- 🗡️ อาวุธ Dragon Sword หาได้จาก /tools ในเกม
+395|- 🔥 วันเสาร์ Fire KOTH แย่งพื้นที่ธีมไฟ เวลา 19:00 น.
+396|- 🟨 วันจันทร์ Lower KOTH โซนชั้นล่าง เวลา 19:00 น.
+397|- 🟩 วันพุธ Water KOTH ธีมน้ำ เวลา 19:00 น.
+398|- 🟦 วันศุกร์ Upper KOTH โซนชั้นบน เวลา 19:00 น.
+399|- ⏰ KOTH ทุกวันเริ่มเวลา 19:00 น. อย่าลืมเตรียมอุปกรณ์
+400|- 🏆 ชนะ KOTH รับ 150 Gems ทันที
+401|- 🗝️ ชนะ KOTH รับ Epic Key x3 เพิ่มเติม
+402|- 📍 เข้า KOTH ด้วย /warp koth ได้เลย
+403|- ⚔️ KOTH ต้องรวมทีมและวางแผนก่อนเข้าโซน
+404|- ✨ Fairy Set ชุดใหม่สำหรับผู้เล่นที่อยากแต่งตัวเท่
+405|- 🧚 Fairy Set เพิ่มตัวเลือกแฟชั่นในเกม
+406|- 🍉 ราคาขาย Melon เพิ่มขึ้น สายฟาร์มแตงโมได้กำไรมากขึ้น
+407|- 🎃 ราคาขาย Pumpkin เพิ่มขึ้น ฟาร์มฟักทองคุ้มค่ากว่าเดิม
+408|- 🍫 ราคาขาย Cocoa Beans เพิ่มขึ้น
+409|- 🌿 ราคาขาย Nether Wart เพิ่มขึ้น
+410|- 🌸 ราคาขาย Torchflower Seeds และ Torchflower เพิ่มขึ้น
+411|- 🌸 ราคาขาย Cherry Sapling เพิ่มขึ้น
+412|- 🌿 ราคาขาย Twisting Vines Nether Sprouts และ Hanging Roots เพิ่มขึ้น
+413|- 😆 ราคาขาย Moss Carpet ถูกปรับลดลง
+414|- 😆 ราคาขาย Moss Block ถูกปรับลดลง
+415|- 📈 ระบบราคาพืชผลถูกปรับตาม feedback จากผู้เล่น
+416|- 🔄 Auto Refill Hotbar ช่วยให้สายสร้างบ้านเล่นลื่นไหลขึ้น
+417|- 🧱 เมื่อบล็อกในมือหมด ระบบดึงบล็อกชนิดเดียวกันจากตัวมาเติมให้
+418|- 🍖 เมื่อกินอาหารชิ้นสุดท้าย ระบบหยิบอาหารชนิดเดิมมาให้ทันที
+419|- 🍖 หากไม่มีอาหารชนิดเดิม ระบบเลือกอาหารอื่นในตัวมาแทน
+420|- 🪣 เมื่อใช้น้ำหรือลาวาจากถัง ระบบเปลี่ยนถังใหม่ให้อัตโนมัติ
+421|- ⚠️ Auto Refill ใช้ได้เฉพาะผู้เล่น Dojo+ ที่มีไอเทมในตัว
+422|- ⚙️ เปิดปิด Auto Refill ที่ /settings ไอคอน Minecart Hopper
+423|- 🏗️ Auto Refill เหมาะมากสำหรับสายสร้างบ้านและสายบิลด์
+424|- 📜 กฎเซิร์ฟเวอร์อัปเดต อ่านที่ /rules ก่อนเล่น
+425|- ⚠️ ไม่อ่านกฎอาจโดนลงโทษได้
+426|- 📈 อัปเกรดทีมด้วย /team upgrade
+427|- 💰 อัปเกรดทีม Level 1 ไป 2 ใช้ $50M
+428|- 💰 อัปเกรดทีม Level 2 ไป 3 ใช้ $500M
+429|- 💎 อัปเกรดทีม Level 3 ไป 4 ใช้ $1B + 2,000 Gems
+430|- 💎 อัปเกรดทีม Level 4 ไป 5 ใช้ $5B + 3,000 Gems
+431|- 🏠 Level 1 ทีมตั้งบ้านทีมได้ 1 จุด
+432|- 🏠 Level 2 ทีมตั้งบ้านทีมได้ 2 จุด
+433|- 🏠 Level 3 ทีมตั้งบ้านทีมได้ 3 จุด
+434|- 🏠 Level 4 ทีมตั้งบ้านทีมได้ 4 จุด
+435|- 🏠 Level 5 ทีมตั้งบ้านทีมได้ 5 จุด
+436|- 📜 จัดการบ้านทีมด้วย /team home
+437|- 📝 ตั้งชื่อบ้านทีมได้ เช่น home-01 base farm
+438|- ⚠️ หลังอัปเดต Team Home ต้อง SetHome ของทีมใหม่
+439|- 🌙 Lunar Client แสดง Team Arrow บอกตำแหน่งเพื่อนร่วมทีม
+440|- 📏 Lunar Client บอกระยะห่างจากเพื่อนร่วมทีมในโลกเดียวกัน
+441|- 🎆 Team Glow เรืองแสงเมื่ออยู่ใกล้เพื่อนทีมในระยะ 30 บล็อก
+442|- 🤑 /topup history ดูประวัติการเติมเงินของตัวเองได้
+443|- 🌐 Placeholder [name] แสดงชื่อผู้เล่นในแชท
+444|- 💎 Placeholder [gem] แสดงจำนวน Gems
+445|- 📊 Placeholder [xp] และ [exp] แสดงค่า XP ปัจจุบัน
+446|- 🎖️ Placeholder [lvl] แสดงเลเวลผู้เล่น
+447|- 💰 Placeholder [money] แสดงยอดเงินในกระเป๋า
+448|- 🎲 /rtpq ชื่อผู้เล่น ท้าวาร์ปคู่กับเพื่อน
+449|- ✅ /rtpq accept ยอมรับคำท้าวาร์ป
+450|- ❌ /rtpq deny ปฏิเสธคำท้าวาร์ป
+451|- 🌍 RTP Challenge เลือก Overworld Nether หรือ End ได้
+452|- 🗺️ The End ขยายจาก 50k เป็น 70k Blocks แล้ว
+453|- 🚀 การบินเปิดแมพอาจทำให้เซิร์ฟแลคเล็กน้อยช่วงนี้
+454|- 📢 /live liveUrl ประกาศไลฟ์ในเซิร์ฟเวอร์
+455|- 🎵 /live รองรับ TikTok Live
+456|- ▶️ /live รองรับ Youtube Live แล้ว
+457|- 🏷️ ต้องใส่ #dojosmp ในชื่อไลฟ์ก่อนประกาศ
+458|- ⏰ ประกาศไลฟ์มีคูลดาวน์ 5 นาทีต่อครั้ง
+459|- 🚫 ใช้ /live ผิดวัตถุประสงค์อาจโดนลงโทษ
+460|- ⚔️ /boss trade แลกไอเทมบอสทุกชิ้นได้ตรง ๆ
+461|- 🍬 Fragment สะสมแลกของบอสได้ชัวร์ ไม่ต้องลุ้นดวง
+462|- 💜 Purple Golem Helmet แลกด้วย Fragment x12 และ $3M
+463|- 💛 Yellow Golem Chestplate แลกด้วย Fragment x12 และ $3M
+464|- 💚 Green Golem Leggings แลกด้วย Fragment x12 และ $3M
+465|- ❤️ Red Golem Boots แลกด้วย Fragment x12 และ $3M
+466|- 🧡 Orange Golem Shovel แลกด้วย Fragment x15 และ $4M
+467|- 🩵 Blue Golem Fishing Rod แลกด้วย Fragment x15 และ $4M
+468|- 🩷 Pink Golem Shield แลกด้วย Fragment x15 และ $4M
+469|- 💛 Yellow Golem Axe แลกด้วย Fragment x40 $5M และ 299 Gems
+470|- 💚 Green Golem Pickaxe แลกด้วย Fragment x40 $5M และ 299 Gems
+471|- 🧡 Orange Golem Crossbow แลกด้วย Fragment x50 $7M และ 399 Gems
+472|- 🩵 Blue Golem Spear แลกด้วย Fragment x50 $7M และ 399 Gems
+473|- 🩷 Pink Golem Bow แลกด้วย Fragment x50 $7M และ 399 Gems
+474|- 💜 Purple Golem Mace แลกด้วย Fragment x72 $10M และ 499 Gems
+475|- ❤️ Red Golem Sword แลกด้วย Fragment x72 $10M และ 499 Gems
+476|- 🎯 Boss Trade เหมาะสายฟาร์มยาว ๆ เน้นอึดเน้นถึก
+477|- 🔥 Dark Wither Set ชุดใหม่จาก Polygony
+478|- 🎁 Spawner Crates เพิ่ม Guardian แล้ว
+479|- 🎁 Spawner Crates เพิ่ม Husk แล้ว
+480|- 🎁 Spawner Crates เพิ่ม Zombie Villager แล้ว
+481|- 🎁 Spawner Crates เพิ่ม Fox แล้ว
+482|- 🪅 Pinata Party เกิดที่ /spawn เมื่อเติม Gems ครบ 3,000
+483|- 🎉 Pinata Party กิจกรรมร่วมทั้งเซิร์ฟ ตี Pinata แย่งรางวัลกัน
+484|- ⚠️ Dojo+ EXP Protection เดิมไม่เสีย EXP เมื่อตาย
+485|- ⚠️ Dojo+ EXP Protection ใหม่เก็บ EXP ได้ 25% เมื่อตาย
+486|- 📊 ตัวอย่าง มี 200 XP ตายแล้วเหลือ 50 XP
+487|- 📜 ดูสิทธิ Dojo+ ทั้งหมดที่ /dojoplus
+488|- 🔮 ระบบเอ็นชานต์พิเศษคล้ายเซิร์ฟเวอร์รูปดาวในอดีต
+489|- ⚔️ ค้นหาหนังสือเอ็นชานต์พิเศษในระบบ Enchanter
+490|- 📈 อัปเกรดอุปกรณ์ด้วยเอ็นชานต์พิเศษได้
+491|- 🏆 สร้างเซ็ตไอเทมไม่เหมือนใครด้วยระบบ Enchanter
+492|- 🛠️ Dojo Lever ซื้อได้ที่ /shop หมวด Special
+493|- 🔌 Dojo Lever ปิดฟาร์มอัตโนมัติหลังรีสตาร์ทเซิร์ฟ
+494|- 🏠 /pssettings จัดการโพรเทคจากเมนูเดียว
+495|- 👥 /pssettings เพิ่มสมาชิกโพรเทคค้นหาชื่อแล้วกดเพิ่ม
+496|- 📋 /pssettings จัดการสมาชิกปรับสิทธิ์รายคน
+497|- ⚙️ /pssettings ตั้งค่าแฟก PvP มอนสปอน เก็บโยนไอเทม
+498|- 📱 PsSettings รองรับ Bedrock Edition ด้วย
+499|- ⚡ /lobby และ /hub เข้าได้ทันทีไม่ต้องนับถอยหลัง
+500|- 🚀 /survival เข้า Survival ได้เลย
+501|- 🏝️ /skyisland เข้า SkyIsland ได้เลย
+502|- ⚔️ /boxpvp เข้า BoxPvP ได้เลย
+503|- 🤖 /practice เข้า Practice ได้เลย
+504|- 🌍 Overworld WorldBorder ขยายเป็น 80,000 Blocks
+505|- 🌌 The End WorldBorder ขยายเป็น 80,000 Blocks
+506|- 🎨 Colored Shop ใน /shop กดขนแกะสีม่วง
+507|- 💰 บล็อกสีใน Colored Shop ราคาสูง เหมาะคนรวย
+508|- 🛒 อยากได้บล็อกสีถูกใช้ /order แทน
+509|- 🚫 Flag entry ส่งคนไม่ได้รับอนุญาตกลับ spawn ทันที
+510|- 🛡️ โพรเทคปลอดภัยขึ้นจากการอัปเดต flag entry
+511|- 🤖 /botpractice หรือ /bottest เปิด GUI ฝึกบอท
+512|- ⚙️ /bot ตั้งค่าบอทฝึกซ้อม
+513|- 🎒 /kit สวมชุด kit ในห้องบอท
+514|- 🚪 /botleave หรือ /leavebot ออกจากห้องบอท
+515|- 🏋️ Practice Bot Room ฝึก PvP กับบอทได้ตลอด
+516|- ✨ Magic Paw Set ชุดใหม่ล่าสุด
+517|- 🛠️ /disenchant ถอด Enchant ที่ไม่ต้องการออกจากไอเทม
+522|- 🫡 /trap หนีจากโพรเทคคนอื่นเมื่อโดน Trap
+526|- ⚡ Dojo EMP Field ป้องกัน Orbital ทุกชนิด
+527|- 📏 EMP Field ระยะป้องกัน 18 บล็อกรอบข้าง
+528|- 🏔️ EMP Field ครอบคลุมแนวตั้งตั้งแต่ล่างสุดถึงฟ้าสูงสุด
+529|- ⏱️ EMP Field ใช้งานได้ 30 วินาที
+530|- ⏳ EMP Field คูลดาวน์ 60 วินาที
+531|- ⛏️ Drill Shovel กลับมาแล้ว ซื้อที่ /tools
+532|- 🛡️ EMP Field ช่วยรับมือ Orbital meta ใน PvP
+533|- 🏝️ SkyIsland มี 30 Phase ความท้าทายเพิ่มขึ้น
+534|- 🔄 /rebirth เริ่ม Phase ใหม่หลังผ่านครบ 30 Phase
+535|- 🏝️ Rebirth รีเซ็ตเฉพาะความคืบหน้า Phase
+536|- 💰 Rebirth เกาะ ไอเทม เงิน ยังคงอยู่ครบ
+537|- 🍉 SkyIsland Generator Melon ซื้อได้ที่ /gens
+539|- 🌋 SkyIsland Nether เข้าผ่าน /rtp เท่านั้น
+540|- 🌌 SkyIsland End เข้าผ่าน /rtp เท่านั้น
+541|- ⚔️ SkyIsland Boss เข้าผ่าน /boss หรือ /warp boss
+542|- 📖 SkyIsland Enchant Shop ขายสมุด Enchant ระดับสูงสุด
+543|- ⚔️ Enchant Shop มีหมวด Combat Armor Tools Bow
+544|- 🏹 Enchant Shop มี Crossbow Trident Fishing Mace Spear
+551|- ⚔️ Dragon Sword Sharpness V ทำดาเมจสูงขึ้น
+552|- 🟪 โพรเทค 259x259 ราคาลดเกือบ 30%
+553|- ✨ Fairy Set เพิ่มความหลากหลายชุดเกราะ
+554|- 🔥 Dark Wither Set ดีไซน์เท่จาก Polygony
+555|- ✨ Magic Paw Set ไอเทมใหม่ล่าสุดของเซิร์ฟ
+556|- 🧱 Auto Refill ลดเวลาในการสร้างบ้าน
+559|- 📈 Team Upgrade เป็นเป้าหมายระยะยาวของทีม
+560|- 🏠 บ้านทีม 5 จุด ช่วยแบ่งพื้นที่ทำงาน
+561|- 🌙 Team Arrow ช่วยหาเพื่อนร่วมทีมได้เร็ว
+562|- 🎆 Team Glow ลดปัญหาหาเพื่อนไม่เจอ
+564|- 🎉 Pinata Party แย่งรางวัลกันทั้งเซิร์ฟ
+565|- 🔮 Enchanter ทำให้การฟาร์มสนุกขึ้น
+566|- ⚔️ Enchanter ทำให้การต่อสู้มีมิติใหม่
+567|- 🛠️ Dojo Lever ป้องกันฟาร์มพังหลังรีสตาร์ท
+568|- 🏠 PsSettings ไม่ต้องพิมพ์คำสั่งโพรเทคทีละอย่าง
+569|- 🌍 โลก 80k มีพื้นที่สำรวจมากขึ้น
+570|- 🎨 Colored Shop บล็อกสีสำหรับตกแต่งบ้าน
+571|- 🤖 Practice Bot ฝึกสกิล PvP ก่อนลงสนามจริง
+572|- 🛠️ /disenchant ปรับ Enchant ให้เหมาะกับไอเทม
+573|- 🎰 Magic Paw pity 38 ครั้ง ไม่ต้องลุ้นดวงนาน
+574|- 🫡 /trap ทางออกเมื่อโดน Trap ในโพรเทคคนอื่น
+575|- ⚡ EMP Field meta ใหม่รับมือ Orbital
+576|- ⛏️ Drill Shovel กลับมาสำหรับสายขุด
+577|- 💸 โพรเทคใหญ่ถูกลง สร้างฐานได้ง่ายขึ้น
+578|- ⚔️ Dragon Sword อาวุธระดับท็อปใน /tools
+579|- 🔥 KOTH ทุกสัปดาห์มี 4 รอบ วันละธีม
+580|- 📈 ฟาร์มพืชผลกำไรดีขึ้นหลัง buff ราคา
+581|- 😆 อย่าฟาร์ม Moss หลังราคาถูก nerf
+582|- 🔄 Auto Refill สิทธิพิเศษ Dojo+ สายบิลด์
+583|- 📜 อ่าน /rules ก่อนเล่นเพื่อความปลอดภัย
+584|- 📈 /team upgrade ลงทุนเพื่อปลดล็อคบ้านทีม
+585|- 🏠 ตั้งชื่อบ้านทีมให้จำง่าย
+586|- 🪅 Pinata Party ทุก 3000 Gems ที่เติม
+587|- ⚠️ Dojo+ ปรับสมดุล EXP เมื่อตาย
+588|- 🔮 /enchanter ระบบเอ็นชานต์ใหม่ลองได้เลย
+589|- 🛠️ Dojo Lever ไอเทมสำคัญสายฟาร์ม
+590|- 🏠 /pssettings จัดการโพรเทคง่ายขึ้นมาก
+591|- ⚡ เข้าเซิร์ฟเร็วขึ้นไม่ต้องรอ lobby
+592|- 🌍 WorldBorder 80k สำรวจได้ไกลขึ้น
+593|- 🎨 บล็อกสีตกแต่งบ้านสวยขึ้น
+594|- 🚫 โพรเทคปลอดภัยจากคนแอบเข้า
+595|- 🤖 ฝึก PvP กับบอทก่อนลง KOTH
+596|- ✨ Magic Paw Set และ pity system
+597|- 🛠️ /disenchant จัดการ Enchant ได้ยืดหยุ่น
+598|- ⚡ EMP + Drill Shovel อัปเดตล่าสุด
+599|- 🏝️ SkyIsland คอนเทนต์เพิ่ม Phase Rebirth Generator
+600|- 💜 DojoSMP อัปเดตใหม่ทุกสัปดาห์ ติดตามใน Discord
